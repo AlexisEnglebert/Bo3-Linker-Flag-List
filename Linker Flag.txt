@@ -8,8 +8,6 @@
 -ttrace
 -force-compute-sprites
 -disable-compute-sprites
--disable-asm-translate
--enable-asm-translate
 -thread-to-ll
 -pause
 -compress
@@ -75,7 +73,6 @@
 -localized
 -gsc_profiler
 -gsc_emitwarnings
--gsc_testfunctions
 -gsc_stripdebug
 -gsc_optimizedvar
 -shaderwarnings
