@@ -6,9 +6,9 @@
 -nosummary
 -updb
 -ttrace
--force-compute-sprites
--disable-compute-sprites
--thread-to-ll
+-forcecomputesprites
+-disablecomputesprites
+-threadtoll
 -pause
 -compress
 -compression
@@ -71,10 +71,11 @@
 -forceimagestreaming
 -noxpak
 -localized
--gsc_profiler
--gsc_emitwarnings
 -gsc_stripdebug
 -gsc_optimizedvar
+-gsc_profiler
+-gsc_emitwarnings
+-gsc_testfunctions
 -shaderwarnings
 -nohlsllinedirective
 -writeArchiveTypeInfoArray
